@@ -28,4 +28,4 @@ The hypothesis is falsified if a unified conscious life can be shown to terminat
 ## Documents
 
 - [Illustrated Guide to Fairness (24 pages)](paper/Illustrated%20Guide%20to%20Fairness.pdf)
-- [The Law of Fairness (Full Manuscript, 1,348 pages)](paper/The%20Law%20of%20Fairness.pdf)
+- [Law of Fairness Formal Model (Full Manuscript, 31 pages)]([paper/Formal%20Model.pdf))
