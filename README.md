@@ -66,21 +66,22 @@ The research program addresses questions including:
 
 A concise 20 page research paper presenting the PTVC hypothesis, its scientific scope, major structural implications, rival models, measurement requirements, falsification conditions, ethical safeguards, and staged empirical research program.
 
-[Read or download the PTVC research paper](paper/Per-Stream-Terminal-Valence-Closure.pdf)
+[Read or download the PTVC research paper](https://github.com/LifeisFair/law-of-fairness-research/blob/main/Per-Stream%20Terminal%20Valence%20Closure%20-%20A%20Boundary%20Hypothesis%20and%20Framework%20for%20Empirical%20Testing.pdf)
+
 
 ### The Law of Fairness Formal Model
 
-The complete 201 page technical foundation for PTVC.
+The complete 200 page technical foundation for PTVC.
 
 It develops the formal definitions, signed measure architecture, representation and neutral origin requirements, stream routing, endpoint structure, reachability conditions, observation models, rival hypotheses, discriminating tests, confirmatory decision rules, empirical program, safeguards, and technical appendices.
 
-[Read or download the full Law of Fairness Formal Model](paper/Law-of-Fairness-Formal-Model.pdf)
+[Read or download the full Law of Fairness Formal Model](https://github.com/LifeisFair/law-of-fairness-research/blob/main/The%20Law%20of%20Fairness%20Formal%20Model.pdf)
 
 ### Illustrated Guide to Fairness
 
 An accessible visual introduction to the central ideas behind the Law of Fairness.
 
-[Read the Illustrated Guide to Fairness](paper/Illustrated-Guide-to-Fairness.pdf)
+[Read the Illustrated Guide to Fairness](https://github.com/LifeisFair/law-of-fairness-research/blob/main/paper/Illustrated%20Guide%20to%20Fairness.pdf)
 
 ## Ethical Boundary
 
