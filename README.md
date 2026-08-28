@@ -81,7 +81,7 @@ It develops the formal definitions, signed measure architecture, representation 
 
 An accessible visual introduction to the central ideas behind the Law of Fairness.
 
-[Read the Illustrated Guide to Fairness](https://github.com/LifeisFair/law-of-fairness-research/blob/main/paper/Illustrated%20Guide%20to%20Fairness.pdf)
+[Read the Illustrated Guide to Fairness](https://github.com/LifeisFair/law-of-fairness-research/blob/main/Illustrated%20Guide%20to%20Fairness.pdf)
 
 ## Ethical Boundary
 
