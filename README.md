@@ -90,7 +90,7 @@ The books are being released publicly so readers can examine the complete projec
 
 | Book | Availability |
 | --- | --- |
-| 1. The Law of Fairness | [Available Now](https://raw.githubusercontent.com/LifeisFair/law-of-fairness-research/main/The%20Law%20of%20Fairness.pdf) |
+| 1. The Law of Fairness | [Available Now](https://github.com/LifeisFair/law-of-fairness-research/blob/main/The%20Law%20of%20Fairness.pdf) |
 | 2. The Science of Fairness | Coming in August 2026 |
 | 3. The Utopia of Fairness | Coming in August 2026 |
 | 4. The Transition of Fairness | Coming in August 2026 |
@@ -109,7 +109,7 @@ It explores why lives can appear profoundly unequal from the outside while askin
 
 The book also includes the Illustrated Guide to Fairness and connects the central hypothesis to the larger effort to understand what fairness could mean for individuals, institutions, civilization, and peace.
 
-[Download The Law of Fairness](https://raw.githubusercontent.com/LifeisFair/law-of-fairness-research/main/The%20Law%20of%20Fairness.pdf)
+[Download The Law of Fairness](https://github.com/LifeisFair/law-of-fairness-research/blob/main/The%20Law%20of%20Fairness.pdf)
 
 ## Ethical Boundary
 
