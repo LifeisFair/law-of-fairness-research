@@ -8,6 +8,24 @@ The project begins with a simple question:
 
 PTVC turns one precise version of that question into a formal hypothesis that can be criticized, tested, narrowed, or refuted. The ten-book series carries the wider inquiry from its philosophical and scientific foundations into personal life, society, government, cities, constitutional design, economics, and the pursuit of lasting peace.
 
+## Start Here
+
+New to the Law of Fairness? These two narrated videos provide the clearest visual introduction to the project before moving into the books, PTVC research paper, or Formal Model.
+
+### Illustrated Guide to Fairness
+
+The Illustrated Guide introduces the central question through conscious experience itself. Across 22 illustrated pages, it explores visible inequality, hidden experience, PTVC, possible closure structure, choice, scientific testing, spirituality, moderation, compassion, and the responsibility to reduce unnecessary suffering.
+
+[Watch the Illustrated Guide to Fairness](https://youtu.be/2uG_00MDnjY)
+
+### The Law of Fairness Series Map
+
+The Series Map reveals the architecture of the complete ten-book project. It shows how one question expands from conscious experience and science into personal life, spirituality, government, cities, rights, institutions, and the pursuit of lasting peace.
+
+[Watch the Law of Fairness Series Map](https://youtu.be/uYuHD5iHAX4)
+
+Together, the Illustrated Guide explains the central idea while the Series Map shows where that idea leads. Readers who want the scientific formulation can continue below to PTVC and the Law of Fairness Formal Model.
+
 ## Core Hypothesis
 
 On its primary finite signed measure branch, PTVC asks whether every separately routed maximal qualifying conscious stream carries equal finite positive and negative phenomenal magnitude across its complete strict pre-endpoint domain.
@@ -70,7 +88,7 @@ A concise 20-page research paper presenting the PTVC hypothesis, its scientific 
 
 ### The Law of Fairness Formal Model
 
-The complete 200-page technical foundation for PTVC.
+The complete technical foundation for PTVC.
 
 It develops the formal definitions, signed measure architecture, representation and neutral origin requirements, stream routing, endpoint structure, reachability conditions, observation models, rival hypotheses, discriminating tests, confirmatory decision rules, empirical program, safeguards, and technical appendices.
 
@@ -78,7 +96,9 @@ It develops the formal definitions, signed measure architecture, representation 
 
 ### Illustrated Guide to Fairness
 
-An accessible visual introduction to the central ideas behind the Law of Fairness.
+An accessible visual introduction to the central ideas behind the Law of Fairness, designed for readers who want to understand the project before entering the technical material.
+
+[Watch the narrated Illustrated Guide to Fairness](https://youtu.be/2uG_00MDnjY)
 
 [Read or download the Illustrated Guide to Fairness](https://github.com/LifeisFair/law-of-fairness-research/blob/main/Illustrated%20Guide%20to%20Fairness.pdf)
 
@@ -86,20 +106,24 @@ An accessible visual introduction to the central ideas behind the Law of Fairnes
 
 The Law of Fairness is a ten-book series that carries the project from its central question and scientific foundation into personal life, social institutions, civic design, constitutional structure, and the pursuit of lasting peace.
 
+The Series Map provides a narrated visual overview of the complete ten-book structure and shows how the books connect.
+
+[Watch the Law of Fairness Series Map](https://youtu.be/uYuHD5iHAX4)
+
 The books are being released publicly so readers can examine the complete project, challenge its assumptions, discuss its proposals, and follow the ideas from theory into practice.
 
 | Book | Availability |
 | --- | --- |
 | 1. The Law of Fairness | [Available Now](https://github.com/LifeisFair/law-of-fairness-research/blob/main/The%20Law%20of%20Fairness.pdf) |
-| 2. The Science of Fairness | Coming in August 2026 |
-| 3. The Utopia of Fairness | Coming in August 2026 |
-| 4. The Transition of Fairness | Coming in August 2026 |
-| 5. The Life of Fairness | Coming in August 2026 |
-| 6. The Religion of Fairness | Coming in August 2026 |
-| 7. The Government of Fairness | Coming in August 2026 |
-| 8. The City of Fairness | Coming in August 2026 |
-| 9. The Constitution of Fairness | Coming in August 2026 |
-| 10. The Peace of Fairness | Coming in August 2026 |
+| 2. The Science of Fairness | Coming soon |
+| 3. The Utopia of Fairness | Coming soon |
+| 4. The Transition of Fairness | Coming soon |
+| 5. The Life of Fairness | Coming soon |
+| 6. The Religion of Fairness | Coming soon |
+| 7. The Government of Fairness | Coming soon |
+| 8. The City of Fairness | Coming soon |
+| 9. The Constitution of Fairness | Coming soon |
+| 10. The Peace of Fairness | Coming soon |
 
 ### The Law of Fairness
 
@@ -109,7 +133,7 @@ It explores why lives can appear profoundly unequal from the outside while askin
 
 The book also includes the Illustrated Guide to Fairness and connects the central hypothesis to the larger effort to understand what fairness could mean for individuals, institutions, civilization, and peace.
 
-[Download The Law of Fairness](https://github.com/LifeisFair/law-of-fairness-research/blob/main/The%20Law%20of%20Fairness.pdf)
+[Read or download The Law of Fairness](https://github.com/LifeisFair/law-of-fairness-research/blob/main/The%20Law%20of%20Fairness.pdf)
 
 ## Ethical Boundary
 
@@ -139,9 +163,21 @@ The goal is to turn serious inquiry into knowledge, and knowledge that survives 
 
 ## Project Resources
 
-Official website:
+### Watch
 
-https://lawoffairness.com
+Illustrated Guide to Fairness:
+
+https://youtu.be/2uG_00MDnjY
+
+Law of Fairness Series Map:
+
+https://youtu.be/uYuHD5iHAX4
+
+### Read and Research
+
+The Law of Fairness:
+
+https://bit.ly/LawOfFairness
 
 Law of Fairness Formal Model:
 
@@ -151,13 +187,31 @@ Per-Stream Terminal Valence Closure:
 
 https://bit.ly/LoFPTVC
 
+### Join the Project
+
+Official Website:
+
+https://lawoffairness.com
+
 Volunteer with the Law of Fairness Project:
 
 https://bit.ly/LoFVolunteer
 
-Join the discussion:
+Join the Discussion:
 
 https://bit.ly/LoFDiscussion
+
+Discord:
+
+https://discord.gg/NqdxZm4Xrj
+
+All Project Links:
+
+https://linktr.ee/LawOfFairness
+
+Bluesky:
+
+@lawoffairness.bsky.social
 
 ## Author
 
