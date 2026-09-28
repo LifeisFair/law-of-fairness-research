@@ -10,7 +10,17 @@ From that starting point, the ten books follow the question in different directi
 
 The books are presented as an invitation to inquiry. Readers are encouraged to examine the ideas, question the assumptions, challenge the conclusions, consider alternative explanations, and explore what these proposals could mean for individuals and for the future of civilization.
 
-All ten books are available to read directly from this repository.
+The Illustrated Guide and all ten books are available to read directly from this repository.
+
+---
+
+# Illustrated Guide to Fairness
+
+The **Illustrated Guide to Fairness** offers an accessible visual introduction to the foundational questions behind the Law of Fairness. Through illustrated explanations, it explores visible inequality, lived experience, consciousness, fairness, scientific inquiry, choice, spirituality, compassion, and the responsibility to reduce unnecessary suffering.
+
+It is designed as a starting point for readers who want a shorter visual introduction before moving into the full books.
+
+**[Read or download the Illustrated Guide to Fairness](https://github.com/LifeisFair/law-of-fairness-research/blob/main/Illustrated%20Guide%20to%20Fairness.pdf)**
 
 ---
 
@@ -112,7 +122,7 @@ The hope is to encourage thoughtful discussion, new insights, and a wider conver
 https://lawoffairness.com
 
 **Discord:**  
-https://discord.gg/NqdxZm4Xrj
+https://discord.gg/zgPVXJuvx6
 
 **Contact:**  
 team@lawoffairness.com
