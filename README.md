@@ -1,222 +1,123 @@
-# Law of Fairness Research Materials
+# The Law of Fairness
 
-This repository contains the primary research materials for the Law of Fairness, its scientific formulation known as Per-Stream Terminal Valence Closure, or PTVC, and the public releases associated with the ten-book Law of Fairness series.
+This repository contains the complete ten-book **Law of Fairness** series.
 
-The project begins with a simple question:
+**Life is not fair. Life may be fair. Between those two sentences lies the question at the heart of the Law of Fairness.**
 
-**Could a conscious life be fair at the level of lived experience, even when its visible circumstances appear profoundly unequal?**
+The series explores the possibility that the visible circumstances of a life may not tell its complete story. It asks whether the full history of conscious experience could reveal a deeper structure of fairness that cannot be seen simply by comparing people from the outside.
 
-PTVC turns one precise version of that question into a formal hypothesis that can be criticized, tested, narrowed, or refuted. The ten-book series carries the wider inquiry from its philosophical and scientific foundations into personal life, society, government, cities, constitutional design, economics, and the pursuit of lasting peace.
+From that starting point, the ten books follow the question in different directions: consciousness and science, everyday life and spirituality, government and leadership, constitutional rights and technology, the design of an advanced civilization, and the possibility of lasting peace.
 
-## Start Here
+The books are presented as an invitation to inquiry. Readers are encouraged to examine the ideas, question the assumptions, challenge the conclusions, consider alternative explanations, and explore what these proposals could mean for individuals and for the future of civilization.
 
-New to the Law of Fairness? These two narrated videos provide the clearest visual introduction to the project before moving into the books, PTVC research paper, or Formal Model.
+All ten books are available to read directly from this repository.
 
-### Illustrated Guide to Fairness
+---
 
-The Illustrated Guide introduces the central question through conscious experience itself. Across 22 illustrated pages, it explores visible inequality, hidden experience, PTVC, possible closure structure, choice, scientific testing, spirituality, moderation, compassion, and the responsibility to reduce unnecessary suffering.
+# The Complete Ten-Book Series
 
-[Watch the Illustrated Guide to Fairness](https://youtu.be/2uG_00MDnjY)
+## 1. The Law of Fairness
 
-### The Law of Fairness Series Map
+**The Law of Fairness** introduces the central question behind the series: could a complete conscious life contain a deeper form of fairness even when its visible circumstances appear profoundly unequal? It explores consciousness, identity, dreams, choice, meaningful goals, and the possibility that the full story of lived experience may reveal something that outward appearances cannot.
 
-The Series Map reveals the architecture of the complete ten-book project. It shows how one question expands from conscious experience and science into personal life, spirituality, government, cities, rights, institutions, and the pursuit of lasting peace.
+**[Read or download The Law of Fairness](https://github.com/LifeisFair/law-of-fairness-research/blob/main/The%20Law%20of%20Fairness.pdf)**
 
-[Watch the Law of Fairness Series Map](https://youtu.be/uYuHD5iHAX4)
+---
 
-Together, the Illustrated Guide explains the central idea while the Series Map shows where that idea leads. Readers who want the scientific formulation can continue below to PTVC and the Law of Fairness Formal Model.
+## 2. The Science of Fairness
 
-## Core Hypothesis
+**The Science of Fairness** asks what observable signature a law of lifetime fairness might leave in nature. It develops the central hypothesis into a scientific research program involving measurement, mathematics, neuroscience, behavior, sleep, dreams, simulations, longitudinal studies, and competing explanations, asking what evidence could support, narrow, or challenge the proposed Law.
 
-On its primary finite signed measure branch, PTVC asks whether every separately routed maximal qualifying conscious stream carries equal finite positive and negative phenomenal magnitude across its complete strict pre-endpoint domain.
+**[Read or download The Science of Fairness](https://github.com/LifeisFair/law-of-fairness-research/blob/main/The%20Science%20of%20Fairness.pdf)**
 
-In compact form, the proposed terminal residual is:
+---
 
-**Positive phenomenal magnitude minus negative phenomenal magnitude equals zero at the complete experiential boundary.**
+## 3. The Utopia of Fairness
 
-The equality is strictly intrastream and nontransferable.
+**The Utopia of Fairness** imagines an advanced civilization built around freedom, human possibility, prosperity, and far greater transparency of public power. It explores government, technology, education, work, journalism, culture, care, privacy, and international cooperation while asking how institutions could make corruption harder to hide and give people greater freedom to build lives worth living.
 
-One life does not balance another.
+**[Read or download The Utopia of Fairness](https://github.com/LifeisFair/law-of-fairness-research/blob/main/The%20Utopia%20of%20Fairness.pdf)**
 
-The hypothesis does not require lives to have equal circumstances, equal duration, equal intensity, equal opportunity, equal suffering, or equal gross experience.
+---
 
-## Scientific Status
+## 4. The Transition of Fairness
 
-PTVC is a proposed candidate boundary hypothesis and research program.
+**The Transition of Fairness** explores how an ambitious vision of a better civilization could become a practical, multigenerational project. Built around a fifty-year horizon, it considers research, funding, infrastructure, voluntary pilots, technology, leadership preparation, public participation, international cooperation, and the evidence needed to determine when reforms should advance, pause, or change.
 
-It is not presented as an established scientific fact.
+**[Read or download The Transition of Fairness](https://github.com/LifeisFair/law-of-fairness-research/blob/main/The%20Transition%20of%20Fairness.pdf)**
 
-Its scientific value depends on whether its representation, measurement, endpoint, observation, identification, and falsification requirements can survive independent scrutiny.
+---
 
-The framework therefore distinguishes the target hypothesis from any proposed mechanism that might explain it.
+## 5. The Life of Fairness
 
-A mechanism may fail while the target remains open. A mechanism may also fit without proving the target.
+**The Life of Fairness** brings the larger ideas of the series into everyday life. It examines attention, emotion, habits, relationships, work, money, health, digital distraction, resilience, moderation, and meaningful goals, asking how the choices and conditions of the present can widen or narrow the possibilities available to us in the future.
 
-## Falsifiability
+**[Read or download The Life of Fairness](https://github.com/LifeisFair/law-of-fairness-research/blob/main/The%20Life%20of%20Fairness.pdf)**
 
-The strongest PTVC branch is intentionally vulnerable to counterevidence.
+---
 
-A single gate-valid qualifying stream whose defensible truth-containing terminal residual excludes zero is sufficient to refute the declared exact universal branch.
+## 6. The Religion of Fairness
 
-The framework also specifies conditions under which evidence must remain inconclusive or receive a No adequate estimate result.
+**The Religion of Fairness** brings questions of suffering, joy, mortality, gratitude, hope, and meaning into conversation with the Law of Fairness. It explores religious and nonreligious traditions, prayer, ritual, service, forgiveness, community, spiritual leadership, and freedom of conscience while asking how wonder, spirituality, and honest inquiry might coexist.
 
-Population averages, favorable subgroups, or another conscious stream cannot erase a valid counterexample.
+**[Read or download The Religion of Fairness](https://github.com/LifeisFair/law-of-fairness-research/blob/main/The%20Religion%20of%20Fairness.pdf)**
 
-## What the Framework Tests
+---
 
-The research program addresses questions including:
+## 7. The Government of Fairness
 
-- Whether positive and negative phenomenal magnitude can be represented on a defensible common scale
-- Whether the neutral origin can be calibrated independently of terminal outcomes
-- Whether conscious streams can be identified and routed without duplication or post-outcome adjustment
-- Whether complete-stream exposure can be reconstructed with defensible uncertainty
-- Whether the final qualifying conscious endpoint can be identified independently
-- Whether observed reports, behavior, physiology, neural signals, and clinical records can support valid measured-to-latent inference
-- Whether PTVC predictions outperform equally resourced rival models
-- Whether exact zero can be distinguished from approximate balance, measurement noise, selection, or observation effects
-- What evidence would support, narrow, or refute the hypothesis
+**The Government of Fairness** explores how public institutions could become both more capable and more accountable. From schools, benefits, courts, policing, and public contracts to artificial intelligence, emergency powers, transparency, appeals, and remedies, the book asks how government can solve difficult problems while remaining answerable to the people it serves.
 
-## Research Documents
+**[Read or download The Government of Fairness](https://github.com/LifeisFair/law-of-fairness-research/blob/main/The%20Government%20of%20Fairness.pdf)**
 
-### Per-Stream Terminal Valence Closure
+---
 
-**A Boundary Hypothesis and Framework for Empirical Testing**
+## 8. The City of Fairness
 
-A concise 20-page research paper presenting the PTVC hypothesis, its scientific scope, major structural implications, rival models, measurement requirements, falsification conditions, ethical safeguards, and staged empirical research program.
+**The City of Fairness** develops the idea of a voluntary Transparent City where people seeking future public responsibility could spend years learning, serving, debating, and practicing judgment before taking office. It explores leadership preparation, education, crisis simulations, technology, public trust, privacy, accountability, and what years of sustained preparation might reveal that a political campaign cannot.
 
-[Read or download the PTVC research paper](https://github.com/LifeisFair/law-of-fairness-research/blob/main/Per-Stream%20Terminal%20Valence%20Closure%20-%20A%20Boundary%20Hypothesis%20and%20Framework%20for%20Empirical%20Testing.pdf)
+**[Read or download The City of Fairness](https://github.com/LifeisFair/law-of-fairness-research/blob/main/The%20City%20of%20Fairness.pdf)**
 
-### The Law of Fairness Formal Model
+---
 
-The complete technical foundation for PTVC.
+## 9. The Constitution of Fairness
 
-It develops the formal definitions, signed measure architecture, representation and neutral origin requirements, stream routing, endpoint structure, reachability conditions, observation models, rival hypotheses, discriminating tests, confirmatory decision rules, empirical program, safeguards, and technical appendices.
+**The Constitution of Fairness** presents an annotated constitutional model for an era of artificial intelligence, digital identity, automated systems, and increasingly powerful institutions. It explores privacy, due process, lawful authority, human responsibility, independent review, emergency powers, non-digital access, and the procedures needed to keep human rights meaningful as technology becomes more capable.
 
-[Read or download the full Law of Fairness Formal Model](https://github.com/LifeisFair/law-of-fairness-research/blob/main/The%20Law%20of%20Fairness%20Formal%20Model.pdf)
+**[Read or download The Constitution of Fairness](https://github.com/LifeisFair/law-of-fairness-research/blob/main/The%20Constitution%20of%20Fairness.pdf)**
 
-### Illustrated Guide to Fairness
+---
 
-An accessible visual introduction to the central ideas behind the Law of Fairness, designed for readers who want to understand the project before entering the technical material.
+## 10. The Peace of Fairness
 
-[Watch the narrated Illustrated Guide to Fairness](https://youtu.be/2uG_00MDnjY)
+**The Peace of Fairness** explores what humanity could build if more of its resources were released from conflict, insecurity, corruption, and mistrust. It connects peace to housing, health, education, energy, work, trade, infrastructure, public finance, defense conversion, climate resilience, and reconstruction, asking how lasting cooperation could create greater stability and more room for human possibility.
 
-[Read or download the Illustrated Guide to Fairness](https://github.com/LifeisFair/law-of-fairness-research/blob/main/Illustrated%20Guide%20to%20Fairness.pdf)
+**[Read or download The Peace of Fairness](https://github.com/LifeisFair/law-of-fairness-research/blob/main/The%20Peace%20of%20Fairness.pdf)**
 
-## The Ten Books of Fairness
+---
 
-The Law of Fairness is a ten-book series that carries the project from its central question and scientific foundation into personal life, social institutions, civic design, constitutional structure, and the pursuit of lasting peace.
+# An Open Invitation
 
-The Series Map provides a narrated visual overview of the complete ten-book structure and shows how the books connect.
+The complete series is being made publicly available so the ideas can be examined as a whole.
 
-[Watch the Law of Fairness Series Map](https://youtu.be/uYuHD5iHAX4)
+Read the books. Question the assumptions. Challenge the arguments. Consider competing explanations. Explore the practical proposals. Identify weaknesses and opportunities for improvement.
 
-The books are being released publicly so readers can examine the complete project, challenge its assumptions, discuss its proposals, and follow the ideas from theory into practice.
+The goal is not to require agreement. It is to make the Law of Fairness available for open reading, serious discussion, criticism, and continued development.
 
-| Book | Availability |
-| --- | --- |
-| 1. The Law of Fairness | [Available Now](https://github.com/LifeisFair/law-of-fairness-research/blob/main/The%20Law%20of%20Fairness.pdf) |
-| 2. The Science of Fairness | Coming soon |
-| 3. The Utopia of Fairness | Coming soon |
-| 4. The Transition of Fairness | Coming soon |
-| 5. The Life of Fairness | Coming soon |
-| 6. The Religion of Fairness | Coming soon |
-| 7. The Government of Fairness | Coming soon |
-| 8. The City of Fairness | Coming soon |
-| 9. The Constitution of Fairness | Coming soon |
-| 10. The Peace of Fairness | Coming soon |
+---
 
-### The Law of Fairness
+## Law of Fairness
 
-The first book establishes the foundation of the series and develops its central question at the scale of lived experience.
-
-It explores why lives can appear profoundly unequal from the outside while asking whether a deeper form of fairness could exist within each complete conscious stream. It introduces the Law of Fairness, its boundaries, its relationship to PTVC, and the wider questions that the remaining nine books examine.
-
-The book also includes the Illustrated Guide to Fairness and connects the central hypothesis to the larger effort to understand what fairness could mean for individuals, institutions, civilization, and peace.
-
-[Read or download The Law of Fairness](https://github.com/LifeisFair/law-of-fairness-research/blob/main/The%20Law%20of%20Fairness.pdf)
-
-## Ethical Boundary
-
-Nothing in the Law of Fairness or PTVC justifies harming anyone, withholding care, minimizing suffering, or attempting dangerous self-testing.
-
-Rights, dignity, welfare, informed consent, privacy, and the direct alleviation of suffering remain independently important regardless of whether the hypothesis is ultimately supported or rejected.
-
-The research program begins with safe nonterminal studies and advances only when the required scientific and ethical gates are satisfied.
-
-The Law does not imply that suffering is deserved, that pain is payment, that joy creates a moral debt, or that one conscious stream can compensate for another.
-
-## Open Invitation
-
-The purpose of publishing these materials is not to ask for belief.
-
-It is to make the Law of Fairness, PTVC, and the wider ten-book project available for serious public examination.
-
-Read the work. Test the assumptions. Challenge the mathematics. Improve the measurements. Compare stronger rivals. Look for counterexamples. Question the practical proposals.
-
-If the framework survives scrutiny, strengthen it.
-
-If it fails, identify exactly where and why.
-
-If the practical ideas can be improved, help improve them.
-
-The goal is to turn serious inquiry into knowledge, and knowledge that survives scrutiny into meaningful work.
-
-## Project Resources
-
-### Watch
-
-Illustrated Guide to Fairness:
-
-https://youtu.be/2uG_00MDnjY
-
-Law of Fairness Series Map:
-
-https://youtu.be/uYuHD5iHAX4
-
-### Read and Research
-
-The Law of Fairness:
-
-https://bit.ly/LawOfFairness
-
-Law of Fairness Formal Model:
-
-https://bit.ly/LoFFormalModel
-
-Per-Stream Terminal Valence Closure:
-
-https://bit.ly/LoFPTVC
-
-### Join the Project
-
-Official Website:
-
+**Official Website:**  
 https://lawoffairness.com
 
-Volunteer with the Law of Fairness Project:
-
-https://bit.ly/LoFVolunteer
-
-Join the Discussion:
-
-https://bit.ly/LoFDiscussion
-
-Discord:
-
+**Discord:**  
 https://discord.gg/NqdxZm4Xrj
 
-All Project Links:
+**Contact:**  
+team@lawoffairness.com
 
-https://linktr.ee/LawOfFairness
+**Publisher:**  
+Law of Fairness LLC
 
-Bluesky:
-
-@lawoffairness.bsky.social
-
-## Author
-
-**Stephen Takowsky**
-
-Law of Fairness Project
-
-[team@lawoffairness.com](mailto:team@lawoffairness.com)
+Copyright © 2026 Law of Fairness LLC. All rights reserved.
