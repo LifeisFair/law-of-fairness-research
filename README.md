@@ -1,6 +1,6 @@
 # The Law of Fairness
 
-This repository contains the complete ten-book **Law of Fairness** series.
+This repository contains the complete ten-book **Law of Fairness** series and the **Illustrated Guide to Fairness**, a visual introduction to the foundational ideas that begin the inquiry.
 
 **Life is not fair. Life may be fair. Between those two sentences lies the question at the heart of the Law of Fairness.**
 
