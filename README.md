@@ -98,11 +98,11 @@ All ten books are available to read directly from this repository.
 
 # An Open Invitation
 
-The complete series is being made publicly available so the ideas can be examined as a whole.
+The complete series is now publicly available so readers can explore the Law of Fairness in full and follow the ideas wherever their own curiosity leads.
 
-Read the books. Question the assumptions. Challenge the arguments. Consider competing explanations. Explore the practical proposals. Identify weaknesses and opportunities for improvement.
+The books invite reflection on some of life’s biggest questions: fairness, consciousness, meaning, human possibility, the future of society, and the kind of civilization we might choose to build.
 
-The goal is not to require agreement. It is to make the Law of Fairness available for open reading, serious discussion, criticism, and continued development.
+The hope is to encourage thoughtful discussion, new insights, and a wider conversation about what fairness could mean for individuals, communities, and humanity’s future.
 
 ---
 
