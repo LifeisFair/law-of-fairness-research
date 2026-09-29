@@ -22,6 +22,20 @@ It is designed as a starting point for readers who want a shorter visual introdu
 
 **[Read or download the Illustrated Guide to Fairness](https://github.com/LifeisFair/law-of-fairness-research/blob/main/Illustrated%20Guide%20to%20Fairness.pdf)**
 
+## Watch the Project Guides
+
+### Illustrated Guide to Fairness — Video
+
+Prefer to begin visually? This video brings the **Illustrated Guide to Fairness** to life and offers a guided introduction to the central questions behind the Law of Fairness before you enter the full books.
+
+**[Watch the Illustrated Guide to Fairness video](https://lawoffairness.s.gy/IG)**
+
+### Law of Fairness Series Map — Video
+
+The **Law of Fairness Series Map** shows how the ten books connect as one journey, beginning with the central question and its scientific investigation before expanding into life, spirituality, civilization, constitutional structure, and lasting peace.
+
+**[Watch the Law of Fairness Series Map video](https://lawoffairness.s.gy/SM)**
+
 ---
 
 # The Complete Ten-Book Series
