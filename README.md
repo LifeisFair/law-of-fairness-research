@@ -1,6 +1,6 @@
 # The Law of Fairness
 
-This repository contains the complete ten-book **Law of Fairness** series and the **Illustrated Guide to Fairness**, a visual introduction to the foundational ideas that begin the inquiry.
+This repository contains the complete ten-book **Law of Fairness** series, the **Illustrated Guide to Fairness**, and **Per-Stream Terminal Valence Closure (PTVC): A Boundary Hypothesis and Framework for Empirical Testing**.
 
 **Life is not fair. Life may be fair. Between those two sentences lies the question at the heart of the Law of Fairness.**
 
@@ -10,7 +10,7 @@ From that starting point, the ten books follow the question in different directi
 
 The books are presented as an invitation to inquiry. Readers are encouraged to examine the ideas, question the assumptions, challenge the conclusions, consider alternative explanations, and explore what these proposals could mean for individuals and for the future of civilization.
 
-The Illustrated Guide and all ten books are available to read directly from this repository.
+The Illustrated Guide, all ten books, and the PTVC research paper are available to read directly from this repository.
 
 ---
 
@@ -103,6 +103,14 @@ It is designed as a starting point for readers who want a shorter visual introdu
 **The Peace of Fairness** explores what humanity could build if more of its resources were released from conflict, insecurity, corruption, and mistrust. It connects peace to housing, health, education, energy, work, trade, infrastructure, public finance, defense conversion, climate resilience, and reconstruction, asking how lasting cooperation could create greater stability and more room for human possibility.
 
 **[Read or download The Peace of Fairness](https://github.com/LifeisFair/law-of-fairness-research/blob/main/The%20Peace%20of%20Fairness.pdf)**
+
+---
+
+# Per-Stream Terminal Valence Closure (PTVC)
+
+**Per-Stream Terminal Valence Closure: A Boundary Hypothesis and Framework for Empirical Testing** presents the focused technical formulation of the scientific hypothesis at the center of the Law of Fairness. It asks whether, within each complete qualifying conscious stream, total positive and negative felt experience could be finite and exactly equal, and develops the mathematical framework, measurement requirements, endpoint logic, competing explanations, falsification criteria, simulations, and staged empirical studies needed to investigate that possibility. Written for researchers and technically interested readers, PTVC provides a concise, self-contained scientific entry point into the larger research program developed throughout **The Science of Fairness**. 
+
+**[Read or download Per-Stream Terminal Valence Closure (PTVC)](https://github.com/LifeisFair/law-of-fairness-research/blob/main/Per-Stream%20Terminal%20Valence%20Closure.pdf)**
 
 ---
 
