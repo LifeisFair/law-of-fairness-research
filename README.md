@@ -44,7 +44,7 @@ The **Law of Fairness Series Map** shows how the ten books connect as one journe
 
 **The Law of Fairness** introduces the central question behind the series: could a complete conscious life contain a deeper form of fairness even when its visible circumstances appear profoundly unequal? It explores consciousness, identity, dreams, choice, meaningful goals, and the possibility that the full story of lived experience may reveal something that outward appearances cannot.
 
-**[Read or download The Law of Fairness](https://github.com/LifeisFair/law-of-fairness-research/blob/main/The%20Law%20of%20Fairness.pdf)**
+**[Read or download The Law of Fairness](https://github.com/LifeisFair/law-of-fairness-research/blob/main/The%20Law%20of%20Fairness%20Reference%20Edition.pdf)**
 
 ---
 
@@ -52,7 +52,7 @@ The **Law of Fairness Series Map** shows how the ten books connect as one journe
 
 **The Science of Fairness** asks what observable signature a law of lifetime fairness might leave in nature. It develops the central hypothesis into a scientific research program involving measurement, mathematics, neuroscience, behavior, sleep, dreams, simulations, longitudinal studies, and competing explanations, asking what evidence could support, narrow, or challenge the proposed Law.
 
-**[Read or download The Science of Fairness](https://github.com/LifeisFair/law-of-fairness-research/blob/main/The%20Science%20of%20Fairness.pdf)**
+**[Read or download The Science of Fairness](https://github.com/LifeisFair/law-of-fairness-research/blob/main/The%20Science%20of%20Fairness%20Reference%20Edition.pdf)**
 
 ---
 
@@ -60,7 +60,7 @@ The **Law of Fairness Series Map** shows how the ten books connect as one journe
 
 **The Utopia of Fairness** imagines an advanced civilization built around freedom, human possibility, prosperity, and far greater transparency of public power. It explores government, technology, education, work, journalism, culture, care, privacy, and international cooperation while asking how institutions could make corruption harder to hide and give people greater freedom to build lives worth living.
 
-**[Read or download The Utopia of Fairness](https://github.com/LifeisFair/law-of-fairness-research/blob/main/The%20Utopia%20of%20Fairness.pdf)**
+**[Read or download The Utopia of Fairness](https://github.com/LifeisFair/law-of-fairness-research/blob/main/The%20Utopia%20of%20Fairness%20Reference%20Edition.pdf)**
 
 ---
 
@@ -68,7 +68,7 @@ The **Law of Fairness Series Map** shows how the ten books connect as one journe
 
 **The Transition of Fairness** explores how an ambitious vision of a better civilization could become a practical, multigenerational project. Built around a fifty-year horizon, it considers research, funding, infrastructure, voluntary pilots, technology, leadership preparation, public participation, international cooperation, and the evidence needed to determine when reforms should advance, pause, or change.
 
-**[Read or download The Transition of Fairness](https://github.com/LifeisFair/law-of-fairness-research/blob/main/The%20Transition%20of%20Fairness.pdf)**
+**[Read or download The Transition of Fairness](https://github.com/LifeisFair/law-of-fairness-research/blob/main/The%20Transition%20of%20Fairness%20Reference%20Edition.pdf)**
 
 ---
 
@@ -76,7 +76,7 @@ The **Law of Fairness Series Map** shows how the ten books connect as one journe
 
 **The Life of Fairness** brings the larger ideas of the series into everyday life. It examines attention, emotion, habits, relationships, work, money, health, digital distraction, resilience, moderation, and meaningful goals, asking how the choices and conditions of the present can widen or narrow the possibilities available to us in the future.
 
-**[Read or download The Life of Fairness](https://github.com/LifeisFair/law-of-fairness-research/blob/main/The%20Life%20of%20Fairness.pdf)**
+**[Read or download The Life of Fairness](https://github.com/LifeisFair/law-of-fairness-research/blob/main/The%20Life%20of%20Fairness%20Reference%20Edition.pdf)**
 
 ---
 
@@ -84,7 +84,7 @@ The **Law of Fairness Series Map** shows how the ten books connect as one journe
 
 **The Religion of Fairness** brings questions of suffering, joy, mortality, gratitude, hope, and meaning into conversation with the Law of Fairness. It explores religious and nonreligious traditions, prayer, ritual, service, forgiveness, community, spiritual leadership, and freedom of conscience while asking how wonder, spirituality, and honest inquiry might coexist.
 
-**[Read or download The Religion of Fairness](https://github.com/LifeisFair/law-of-fairness-research/blob/main/The%20Religion%20of%20Fairness.pdf)**
+**[Read or download The Religion of Fairness](https://github.com/LifeisFair/law-of-fairness-research/blob/main/The%20Religion%20of%20Fairness%20Reference%20Edition.pdf)**
 
 ---
 
@@ -92,7 +92,7 @@ The **Law of Fairness Series Map** shows how the ten books connect as one journe
 
 **The Government of Fairness** explores how public institutions could become both more capable and more accountable. From schools, benefits, courts, policing, and public contracts to artificial intelligence, emergency powers, transparency, appeals, and remedies, the book asks how government can solve difficult problems while remaining answerable to the people it serves.
 
-**[Read or download The Government of Fairness](https://github.com/LifeisFair/law-of-fairness-research/blob/main/The%20Government%20of%20Fairness.pdf)**
+**[Read or download The Government of Fairness](https://github.com/LifeisFair/law-of-fairness-research/blob/main/The%20Government%20of%20Fairness%20Reference%20Edition.pdf)**
 
 ---
 
@@ -100,7 +100,7 @@ The **Law of Fairness Series Map** shows how the ten books connect as one journe
 
 **The City of Fairness** develops the idea of a voluntary Transparent City where people seeking future public responsibility could spend years learning, serving, debating, and practicing judgment before taking office. It explores leadership preparation, education, crisis simulations, technology, public trust, privacy, accountability, and what years of sustained preparation might reveal that a political campaign cannot.
 
-**[Read or download The City of Fairness](https://github.com/LifeisFair/law-of-fairness-research/blob/main/The%20City%20of%20Fairness.pdf)**
+**[Read or download The City of Fairness](https://github.com/LifeisFair/law-of-fairness-research/blob/main/The%20City%20of%20Fairness%20Reference%20Edition.pdf)**
 
 ---
 
@@ -108,7 +108,7 @@ The **Law of Fairness Series Map** shows how the ten books connect as one journe
 
 **The Constitution of Fairness** presents an annotated constitutional model for an era of artificial intelligence, digital identity, automated systems, and increasingly powerful institutions. It explores privacy, due process, lawful authority, human responsibility, independent review, emergency powers, non-digital access, and the procedures needed to keep human rights meaningful as technology becomes more capable.
 
-**[Read or download The Constitution of Fairness](https://github.com/LifeisFair/law-of-fairness-research/blob/main/The%20Constitution%20of%20Fairness.pdf)**
+**[Read or download The Constitution of Fairness](https://github.com/LifeisFair/law-of-fairness-research/blob/main/The%20Constitution%20of%20Fairness%20Reference%20Edition.pdf)**
 
 ---
 
@@ -116,7 +116,7 @@ The **Law of Fairness Series Map** shows how the ten books connect as one journe
 
 **The Peace of Fairness** explores what humanity could build if more of its resources were released from conflict, insecurity, corruption, and mistrust. It connects peace to housing, health, education, energy, work, trade, infrastructure, public finance, defense conversion, climate resilience, and reconstruction, asking how lasting cooperation could create greater stability and more room for human possibility.
 
-**[Read or download The Peace of Fairness](https://github.com/LifeisFair/law-of-fairness-research/blob/main/The%20Peace%20of%20Fairness.pdf)**
+**[Read or download The Peace of Fairness](https://github.com/LifeisFair/law-of-fairness-research/blob/main/The%20Peace%20of%20Fairness%20Reference%20Edition.pdf)**
 
 ---
 
