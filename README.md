@@ -1,6 +1,6 @@
 # The Law of Fairness
 
-This repository contains the complete ten-book **Law of Fairness** series, the **Illustrated Guide to Fairness**, and **Per-Stream Terminal Valence Closure (PTVC): A Boundary Hypothesis and Framework for Empirical Testing**.
+This repository contains the complete ten-book **Law of Fairness** Foundation Edition series, the **Illustrated Guide to Fairness**, and **Per-Stream Terminal Valence Closure (PTVC): A Boundary Hypothesis and Framework for Empirical Testing**.
 
 **Life is not fair. Life may be fair. Between those two sentences lies the question at the heart of the Law of Fairness.**
 
