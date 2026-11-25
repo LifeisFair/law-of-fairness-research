@@ -1,6 +1,6 @@
 # The Law of Fairness
 
-This repository contains the complete ten-book **Law of Fairness** Foundation Edition series, the **Illustrated Guide to Fairness**, and **Per-Stream Terminal Valence Closure (PTVC): A Boundary Hypothesis and Framework for Empirical Testing**.
+This repository contains the complete ten-book **Law of Fairness** series and the **Illustrated Guide to Fairness**. The scientific research program is presented in **Per-Stream Terminal Valence Closure (PTVC): A Boundary Hypothesis and Framework for Empirical Testing** and **Life History and the Continuing Route: A Prospective Terminal-Choice Experiment**.
 
 **Life is not fair. Life may be fair. Between those two sentences lies the question at the heart of the Law of Fairness.**
 
@@ -10,7 +10,7 @@ From that starting point, the ten books follow the question in different directi
 
 The books are presented as an invitation to inquiry. Readers are encouraged to examine the ideas, question the assumptions, challenge the conclusions, consider alternative explanations, and explore what these proposals could mean for individuals and for the future of civilization.
 
-The Illustrated Guide, all ten books, and the PTVC research paper are available to read directly from this repository.
+The Illustrated Guide, all ten books, and both research papers are available to read directly from this repository.
 
 ---
 
@@ -127,6 +127,14 @@ The **Law of Fairness Series Map** shows how the ten books connect as one journe
 **[Read or download Per-Stream Terminal Valence Closure (PTVC)](https://github.com/LifeisFair/law-of-fairness-research/blob/main/Per-Stream%20Terminal%20Valence%20Closure.pdf)**
 
 ---
+
+# Life History and the Continuing Route
+
+**Life History and the Continuing Route: A Prospective Terminal-Choice Experiment** develops the mosquito experiment introduced in **PTVC** into a detailed proposal for laboratory testing. It asks whether prior exposure to normal, enriched or harsh adult environments predicts which entrance a mosquito chooses when only one route permits survival. Comparisons with trials in which every route permits survival, together with dedicated sensory-cue tests, are designed to distinguish the predicted pattern from competing behavioral explanations.
+
+The paper connects the theoretical prediction to observable outcomes through randomized assignments and masked observation. It sets out the mathematical reasoning, experimental procedures and statistical analysis, with a control-only feasibility phase preceding terminal trials. Written for researchers, laboratories and prospective funders, this self-contained proposal also addresses biological validation, reproducibility and the practical requirements for implementation. It provides a focused path toward testing a specified consequence of the Law of Fairness.
+
+[**Read or download Life History and the Continuing Route**](https://github.com/LifeisFair/law-of-fairness-research/blob/main/Life%20History%20and%20the%20Continuing%20Route.pdf)
 
 # An Open Invitation
 
